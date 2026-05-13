@@ -1,0 +1,42 @@
+{
+  "businessName": "Food Affair / Two Girls",
+  "industry": "Food Manufacturing",
+  "tone": "warm and inviting",
+  "tagline": "Crafting Quality Food Products with Care and Excellence",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Food Affair / Two Girls - Your Trusted Partner in Quality Food Manufacturing. From our facility in Bwari, we deliver excellence in every product we create. Taste the difference of authentically crafted food made with passion and precision.",
+      "imagePrompt": "A vibrant, photorealistic image of a modern Nigerian food manufacturing facility with stainless steel equipment, African women in professional food safety attire inspecting packaged food products, bright natural lighting streaming through large windows, colorful fresh ingredients displayed on clean countertops, warm and inviting atmosphere, high-quality commercial kitchen aesthetic",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Food Affair / Two Girls is a dedicated food manufacturing company based in Bwari, Nigeria. We specialize in producing high-quality food products that meet the needs of Nigerian families and businesses. Our commitment to excellence, food safety standards, and authentic taste has made us a trusted name in the industry. Operating from our modern facility in Kubwa, we combine traditional recipes with contemporary manufacturing practices to deliver products that consistently exceed expectations. Every item that leaves our facility reflects our passion for quality and our dedication to nourishing our community.",
+      "imagePrompt": "A photorealistic image showing two confident Nigerian businesswomen in the foreground wearing professional attire and hairnets, standing in a clean, well-organized food production facility, with workers in the background packaging products, modern equipment visible, warm lighting, professional and trustworthy atmosphere, pride and accomplishment evident in their expressions",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Products & Services",
+      "copy": "At Food Affair / Two Girls, we manufacture a diverse range of food products designed to meet your needs:\n\n**Food Manufacturing**: We produce quality food items using the finest ingredients and strict hygiene standards.\n\n**Custom Production**: Work with us to develop customized food products tailored to your specifications.\n\n**Bulk Supply**: Reliable bulk orders for retailers, distributors, and institutional clients across Nigeria.\n\n**Quality Assurance**: Every product undergoes rigorous quality control to ensure safety and consistency.\n\nWhether you're a retailer, restaurant owner, or institution, we're equipped to meet your food manufacturing needs with professionalism and reliability.",
+      "imagePrompt": "A photorealistic flat lay composition showing various packaged Nigerian food products arranged attractively on a clean white surface, colorful labels, sealed packages, fresh ingredients scattered artfully around the products, bright studio lighting, professional product photography style, emphasis on quality and variety",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to experience quality food manufacturing? Get in touch with Food Affair / Two Girls today. We're located in the heart of Bwari and ready to serve you.\n\n**Visit Us:**\nHexalix Estate, No. 1 Gilbert Nwachukwu Street, FO1 Kubwa, Bwari, Nigeria\n\n**Call Us:**\n+234 803 882 4555\n\n**Business Hours:**\nMonday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM\n\nWhether you have questions about our products, want to place an order, or discuss a partnership, our team is here to help. Reach out via phone or WhatsApp, and let's discuss how we can meet your food manufacturing needs.",
+      "imagePrompt": "A photorealistic image of a welcoming Nigerian business reception area with modern furniture, a clean desk with a phone and computer, African receptionist smiling warmly, visible company branding on the wall, plants adding freshness, professional yet approachable atmosphere, natural lighting, map of Nigeria subtly visible in background",
+      "layout": "default"
+    }
+  ],
+  "contact": {
+    "phone": "+234 803 882 4555",
+    "email": "",
+    "address": "Hexalix Estate, No. 1 Gilbert Nwachukwu Street, FO1 Kubwa, Bwari, Nigeria",
+    "whatsapp": "https://wa.me/2348038824555"
+  }
+}
